@@ -47,6 +47,7 @@ hr {
 }
 body, li, span, p {
     cursor: url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/texto.cur),auto;
+    /* cursor: url(../../favicon.ico),auto; */
 }
 a {
     background-color: transparent;
@@ -390,4 +391,10 @@ aside_content .card-info .author-info__description {
     background-color: transparent
 }
 
+
+/* 备案 */
+.copyright a{
+    text-decoration: none;
+    color: #4c4948;
+}
 
