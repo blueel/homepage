@@ -274,6 +274,11 @@ img {
     max-width: 100%;
     transition: all .2s;
 }
+
+.xiao {
+    width: 150px;
+    height: 250px;
+}
 .avatar-img {
     animation: avatar_turn_around 2s linear infinite;
 }
